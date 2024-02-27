@@ -6,10 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [[YouTube: osTicket Installation](https://youtu.be/jwVu0O_ooZk)]
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -28,11 +24,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL
 - HeidiSQL
 
+<h2>Video Demonstration</h2>
 
-<h2>Installation Steps</h2>
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- ### [[YouTube: osTicket Installation](https://youtu.be/jwVu0O_ooZk)]
